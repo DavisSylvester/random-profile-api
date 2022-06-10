@@ -8,5 +8,3 @@ RUN ls -la
 RUN npm i
 RUN tsc
 CMD ["npm", "run", "serve:api"]
-
-
